@@ -19,6 +19,6 @@ I'm a developer based in the Philippines specializing in modular web systems, ro
 * **Local Café Management System:** A robust PostgreSQL architecture featuring complex relational constraints, custom enumerations, and optimized query indexes to accurately track sales and inventory.
 
 #### 📫 Let's Connect
-* **LinkedIn:** [Link to your profile]
-* **Email:** [Your email address]
-* **Portfolio:** [Link to your website if applicable]
+* **LinkedIn:** www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388
+* **Email:** juliusmendoza809@gmail.com
+* **Portfolio:** [[Link to your website if applicable]](https://mndzjls.vercel.app/)
