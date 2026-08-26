@@ -1,4 +1,4 @@
-### Hi there, I'm Julius 👋
+### Hi there, I'm Julius Mendoza👋
 
 I'm a developer based in the Philippines specializing in modular web systems, robust database architectures, and bridging the gap between full-stack development and data science.
 
