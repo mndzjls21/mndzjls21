@@ -22,3 +22,9 @@ I'm a developer based in the Philippines specializing in modular web systems, ro
 * **LinkedIn:** www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388
 * **Email:** juliusmendoza809@gmail.com
 * **Portfolio:** (https://mndzjls.vercel.app/)
+  
+#### 📫 Social Media
+* **Instagram:**
+* **facebook:** juliusmendoza809@gmail.com
+
+
