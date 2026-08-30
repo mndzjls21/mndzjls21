@@ -3,7 +3,6 @@
 I'm a developer based in the Philippines specializing in modular web systems, robust database architectures, and bridging the gap between full-stack development and data science.
 
 #### 💻 About Me
-* I enjoy building clean, functional user interfaces—like left-aligned sidebars—while keeping dashboards strictly focused on core metrics rather than unnecessary bloat.
 * My data analysis work regularly involves advanced statistics, mathematical modeling, and utilizing tools like logarithmic scatter plots to uncover trends in complex datasets.
 * Outside of writing code, I spend time troubleshooting and fine-tuning multi-source streaming setups and WebSocket configurations in OBS Studio.
 * **Currently Learning:** Project Management and AI models
