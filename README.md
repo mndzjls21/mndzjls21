@@ -1,29 +1,52 @@
-### Hi there, I'm Julius Mendoza👋
+# Hi there, I'm Julius Mendoza 👋
 
-I'm a developer based in the Philippines specializing in modular web systems, robust database architectures, and bridging the gap between full-stack development and data science.
+I'm a **Technical Project Manager & Software Developer** based in the Philippines, specializing in coordinating cross-functional development teams, defining technical architectures, and delivering modular, scalable web systems. I bridge the gap between business requirements, engineering execution, and data-driven project planning.
 
-#### 💻 About Me
-* My data analysis work regularly involves advanced statistics, mathematical modeling, and utilizing tools like logarithmic scatter plots to uncover trends in complex datasets.
-* Outside of writing code, I spend time troubleshooting and fine-tuning multi-source streaming setups and WebSocket configurations in OBS Studio.
-* **Currently Learning:** Project Management and AI models
+---
 
-#### 🛠️ Tech Stack
-* **Frontend:** React, Tailwind CSS
-* **Backend & Database:** Python, PostgreSQL
-* **Data & Math:** NumPy, Data Cleaning, Statistical Analysis
+### 💻 About Me
 
-#### 🚀 Featured Projects
-* **Business Virtual Assistant (MarketMate):** A centralized inventory and e-commerce management platform for online sellers, streamlined to deliver only the most essential operational tools.
-* **Platform Aggregator:** A scalable web aggregator engineered with custom, simulated platform clones to seamlessly maintain functionality without relying on restricted third-party live APIs.
-* **Local Café Management System:** A robust PostgreSQL architecture featuring complex relational constraints, custom enumerations, and optimized query indexes to accurately track sales and inventory.
+- 🎯 **Project Leadership & Team Coordination:** Experienced in managing modular web projects and aligning cross-functional teams across UI/UX design, frontend, backend, and database architecture to ensure clear milestones and timely delivery.
+- 🏗️ **Technical Scoping & Strategy:** Leveraging hands-on full-stack and database design experience to translate complex requirements into actionable roadmaps, mitigate technical blockers, and prioritize high-impact features.
+- 📊 **Data-Driven Decision Making:** Applying statistical analysis, data modeling, and performance evaluation to track project metrics, optimize workflows, and drive product efficiency.
+- ⚙️ **Systems & Optimization:** Proven track record in architectural problem-solving, operational streamlining, and technical troubleshooting across web platforms, relational databases, and multi-source streaming setups.
+- 🚀 **Currently Expanding:** Agile/Scrum Methodologies, Technical Product Strategy, and Applied AI Integration.
 
-#### 📫 Let's Connect
-* **LinkedIn:** www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388
-* **Email:** juliusmendoza809@gmail.com
-* **Portfolio:** (https://mndzjls.vercel.app/)
-  
-#### 📫 Social Media
-* **Instagram:**
-* **facebook:** juliusmendoza809@gmail.com
+---
 
+### 🛠️ Skills & Competencies
 
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Project Management & Strategy** | Technical Scoping, Cross-Functional Team Leadership, Requirement Analysis, Agile/Scrum Workflow, Risk Mitigation, Milestone Planning |
+| **Backend & Architecture** | Python, PostgreSQL, Database Schema Design, Relational Modeling, Query Optimization |
+| **Frontend Development** | React, JavaScript, Tailwind CSS, Responsive Web Design |
+| **Data & Analytics** | NumPy, Data Cleaning, Statistical Modeling, Tabular Data Evaluation |
+| **Tools & Environments** | Git, GitHub, OBS Studio, VS Code, Linux/Windows |
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Business Virtual Assistant (MarketMate)
+* **Role:** Technical Lead & Project Planning
+* Centralized inventory and e-commerce management platform for online sellers.
+* Defined the core functional requirements and product scope, strictly prioritizing high-impact operational tools to prevent scope creep and accelerate time-to-delivery.
+
+#### 🔹 Platform Aggregator
+* **Role:** Technical Project Lead & Systems Architect
+* Scalable web aggregator engineered to unify multi-source platform data.
+* Orchestrated an agile architectural pivot when restricted third-party APIs threatened project timelines, directing the development of simulated platform clones to keep milestones strictly on schedule.
+
+#### 🔹 Local Café Management System
+* **Role:** Database Architect & Data Modeling
+* Engineered a complete PostgreSQL database blueprint, data dictionary, and relational architecture.
+* Built complex constraints, custom enumerations, and optimized query indexes to ensure seamless inventory tracking and sales performance reporting.
+
+---
+
+### 📫 Connect With Me
+
+- 💼 **LinkedIn:** [Julius Ceasar Mendoza](https://www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388)
+- 🌐 **Portfolio:** [mndzjls.vercel.app](https://mndzjls.vercel.app/)
+- ✉️ **Email:** [juliusmendoza809@gmail.com](mailto:juliusmendoza809@gmail.com)
