@@ -4,7 +4,7 @@ I'm a **Technical Project Manager & Software Developer** based in the Philippine
 
 ---
 
-### 💻 About Me
+### About Me
 
 -  **Project Leadership & Team Coordination:** Experienced in managing modular web projects and aligning cross-functional teams across UI/UX design, frontend, backend, and database architecture to ensure clear milestones and timely delivery.
 -  **Technical Scoping & Strategy:** Leveraging hands-on full-stack and database design experience to translate complex requirements into actionable roadmaps, mitigate technical blockers, and prioritize high-impact features.
@@ -14,7 +14,7 @@ I'm a **Technical Project Manager & Software Developer** based in the Philippine
 
 ---
 
-### 🛠️ Skills & Competencies
+### Skills & Competencies
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -26,7 +26,7 @@ I'm a **Technical Project Manager & Software Developer** based in the Philippine
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### 🔹 Business Virtual Assistant (MarketMate)
 * **Role:** Technical Lead & Project Planning
