@@ -6,11 +6,11 @@ I'm a **Technical Project Manager & Software Developer** based in the Philippine
 
 ### 💻 About Me
 
-- 🎯 **Project Leadership & Team Coordination:** Experienced in managing modular web projects and aligning cross-functional teams across UI/UX design, frontend, backend, and database architecture to ensure clear milestones and timely delivery.
-- 🏗️ **Technical Scoping & Strategy:** Leveraging hands-on full-stack and database design experience to translate complex requirements into actionable roadmaps, mitigate technical blockers, and prioritize high-impact features.
-- 📊 **Data-Driven Decision Making:** Applying statistical analysis, data modeling, and performance evaluation to track project metrics, optimize workflows, and drive product efficiency.
-- ⚙️ **Systems & Optimization:** Proven track record in architectural problem-solving, operational streamlining, and technical troubleshooting across web platforms, relational databases, and multi-source streaming setups.
-- 🚀 **Currently Expanding:** Agile/Scrum Methodologies, Technical Product Strategy, and Applied AI Integration.
+-  **Project Leadership & Team Coordination:** Experienced in managing modular web projects and aligning cross-functional teams across UI/UX design, frontend, backend, and database architecture to ensure clear milestones and timely delivery.
+-  **Technical Scoping & Strategy:** Leveraging hands-on full-stack and database design experience to translate complex requirements into actionable roadmaps, mitigate technical blockers, and prioritize high-impact features.
+-  **Data-Driven Decision Making:** Applying statistical analysis, data modeling, and performance evaluation to track project metrics, optimize workflows, and drive product efficiency.
+-  **Systems & Optimization:** Proven track record in architectural problem-solving, operational streamlining, and technical troubleshooting across web platforms, relational databases, and multi-source streaming setups.
+-  **Currently Expanding:** Agile/Scrum Methodologies, Technical Product Strategy, and Applied AI Integration.
 
 ---
 
