@@ -1,4 +1,4 @@
-# Hi there, I'm Julius Mendoza 👋
+# Hi there, I'm Julius Mendoza 
 
 I'm a **Technical Project Manager & Software Developer** based in the Philippines, specializing in coordinating cross-functional development teams, defining technical architectures, and delivering modular, scalable web systems. I bridge the gap between business requirements, engineering execution, and data-driven project planning.
 
