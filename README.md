@@ -1,6 +1,6 @@
-# Hi there, I'm Mr. Nuetrino (Juls) 👋
+# Hi there, I'm Mr. Nuetrino (Juls) 
 
-### Technical Project Manager | Software Developer | Systems & Database Architecture
+### Technical Project Manager | Software Developer 
 
 📍 **Based in the Philippines 🇵🇭**
 
