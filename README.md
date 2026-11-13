@@ -2,7 +2,7 @@
 
 ### Technical Project Manager | Software Developer 
 
-📍 **Based in the Philippines 🇵🇭**
+📍 **Based in the Philippines **
 
 I'm a **Technical Project Manager and Software Developer** passionate about transforming complex business requirements into practical, scalable, and well-structured software solutions.
 
@@ -14,7 +14,7 @@ I'm continuously strengthening my expertise in **Agile project management, softw
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎯 **Technical Project Management:** Coordinating development activities, establishing project milestones, managing technical requirements, and aligning engineering efforts with business priorities.
 - 🏗️ **Systems Architecture & Engineering:** Designing modular web applications, defining system workflows, planning database structures, and evaluating technical solutions.
@@ -43,7 +43,7 @@ I'm continuously strengthening my expertise in **Agile project management, softw
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 
 ### 🔹 Business Virtual Assistant (BVA) / MarketMate
 **Role:** Technical Lead & Project Planning
@@ -58,7 +58,7 @@ An inventory management and e-commerce decision-support platform designed to hel
 
 **Focus:** Inventory Management, E-Commerce, Decision Support, AI Integration
 
-### 🔹 Platform Aggregator
+### Platform Aggregator
 **Role:** Technical Project Lead & Systems Architect
 
 A modular web-based platform designed to consolidate information from multiple external sources into a centralized interface.
@@ -71,7 +71,7 @@ A modular web-based platform designed to consolidate information from multiple e
 
 **Focus:** Systems Integration, API Architecture, Technical Risk Management
 
-### 🔹 Supply Chain Management System
+### Supply Chain Management System
 **Focus:** Systems Development, Workflow Optimization & Quality Assurance
 
 A business operations platform supporting supply chain processes and coordinated workflows across operational departments.
@@ -84,7 +84,7 @@ A business operations platform supporting supply chain processes and coordinated
 
 **Focus:** Supply Chain Operations, System Analysis, QA, Workflow Optimization
 
-### 🔹 SNUHI Nutrition Surveillance & Analytics Project
+### SNUHI Nutrition Surveillance & Analytics Project
 **Focus:** Requirements Engineering & Systems Analysis
 
 A research-oriented digital solution focused on supporting community nutrition surveillance, field data collection, and analytics.
@@ -97,7 +97,7 @@ A research-oriented digital solution focused on supporting community nutrition s
 
 **Focus:** Requirements Engineering, Health Data Systems, Data Analytics, Technical Documentation
 
-### 🔹 Local Café Management System
+### Local Café Management System
 **Role:** Database Architect & Data Modeling
 
 A relational database architecture designed to support café operations, inventory management, and sales monitoring.
