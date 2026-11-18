@@ -2,7 +2,7 @@
 
 ### Technical Project Manager | Software Developer 
 
-📍 **Based in the Philippines **
+📍 Based in the Philippines 
 
 I'm a **Technical Project Manager and Software Developer** passionate about transforming complex business requirements into practical, scalable, and well-structured software solutions.
 
