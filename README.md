@@ -33,11 +33,8 @@ I'm continuously strengthening my expertise in **Agile project management, softw
 | **Project Management** | Technical Project Planning, Agile/Scrum, Task Management, Milestone Tracking, Risk Assessment, Cross-Functional Coordination |
 | **Requirements & Documentation** | Requirement Analysis, SRS, Business Rules Catalog, Technical Documentation, Workflow Analysis, Data Flow Diagrams |
 | **Frontend Development** | React, JavaScript, HTML, CSS, Tailwind CSS, Responsive Web Design |
-| **Backend Development** | Node.js, Express.js, Python, REST APIs, Backend Architecture |
-| **Database Engineering** | PostgreSQL, MySQL, Prisma ORM, Relational Modeling, Schema Design, SQL Query Optimization |
 | **Systems Design** | System Architecture, API Integration, Database Normalization, BPMN, ERD, Modular System Design |
 | **QA & Testing** | Functional Testing, Bug Reporting, Test Scenarios, Issue Tracking, System Validation |
-| **Data & Analytics** | Python, NumPy, Data Cleaning, Statistical Analysis, Data Modeling |
 | **Development Tools** | Git, GitHub, VS Code, Windows, Linux |
 | **Other Technologies** | OBS Studio, Livestreaming Systems, Technical Troubleshooting |
 
