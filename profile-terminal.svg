@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
+  <title id="title">Mr. Nuetrino — Juls</title>
+  <desc id="desc">A terminal profile with a pixel JM monogram, technical skills, and selected projects.</desc>
+  <style>
+    text { font: 15px ui-monospace, Consolas, "Liberation Mono", monospace; fill: #d6deeb }
+    .muted { fill: #a6b2c1 } .key { fill: #ffbc79 } .value { fill: #9bd7ff }
+    .green { fill: #81dfb3 } .small { font-size: 13px }
+    .rule { stroke: #455366; stroke-dasharray: 3 5 }
+    .cursor { animation: blink 1.2s step-end infinite }
+    .scan { animation: sweep 5s ease-in-out infinite }
+    @keyframes blink { 50% { opacity: 0 } }
+    @keyframes sweep { 0%,15% { transform: translateY(0) } 75%,100% { transform: translateY(100px) } }
+    @media (prefers-reduced-motion: reduce) { .cursor,.scan { animation: none } .scan { opacity: 0 } }
+  </style>
+  <defs>
+    <pattern id="grid" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#344353"/></pattern>
+    <path id="jm" d="M0 0h54v12H0z M36 12h18v66H36z M0 66h12v12H0z M6 78h36v12H6z M72 0h12v90H72z M84 12h12v18H84z M96 24h12v18H96z M108 36h12v18h-12z M120 24h12v18h-12z M132 12h12v18h-12z M144 0h12v90h-12z"/>
+    <clipPath id="letters"><use href="#jm"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="898" height="358" rx="12" fill="#161b22" stroke="#344050"/>
+  <path d="M1 43h898" stroke="#344050"/>
+  <circle cx="23" cy="22" r="5" fill="#f08882"/><circle cx="41" cy="22" r="5" fill="#e9bd72"/><circle cx="59" cy="22" r="5" fill="#78c99a"/>
+  <text x="82" y="27" class="small muted">juls@workspace ~</text>
+  <rect x="21" y="61" width="218" height="278" rx="7" fill="#111820"/>
+  <rect x="21" y="61" width="218" height="278" rx="7" fill="url(#grid)"/>
+  <g transform="translate(52 119)"><use href="#jm" x="3" y="4" fill="#254858"/><use href="#jm" fill="#81dfb3"/><g clip-path="url(#letters)"><rect class="scan" y="-9" width="156" height="9" fill="#dcfff0"/></g></g>
+  <text x="130" y="252" text-anchor="middle" class="value">MR. NUETRINO</text>
+  <text x="130" y="275" text-anchor="middle" class="small muted">Julius Ceasar Mendoza</text>
+  <text x="266" y="79" class="green">juls@workspace</text><text x="402" y="79" class="muted">~ $ whoami</text><rect x="500" y="66" width="8" height="15" fill="#81dfb3" class="cursor"/>
+  <text x="266" y="112" class="key">Role</text><path d="M327 108h54" class="rule"/><text x="397" y="112" class="value">Technical Project Manager &amp; Software Developer</text>
+  <text x="266" y="138" class="key">Focus</text><path d="M327 134h54" class="rule"/><text x="397" y="138" class="value">Requirements, systems design, and QA</text>
+  <text x="266" y="164" class="key">Stack</text><path d="M327 160h54" class="rule"/><text x="397" y="164" class="value">React, JavaScript, Tailwind CSS, PostgreSQL</text>
+  <text x="266" y="190" class="key">Tools</text><path d="M327 186h54" class="rule"/><text x="397" y="190" class="value">Git, GitHub, VS Code, Windows, Linux</text>
+  <text x="266" y="234" class="muted">~/projects</text><path d="M370 230h491" class="rule"/>
+  <text x="266" y="265" class="key">nutri-map/</text><text x="463" y="265" class="value">Offline-first nutrition surveillance</text>
+  <text x="266" y="292" class="key">stockwise/</text><text x="463" y="292" class="value">Restock planning and seller promotions</text>
+  <text x="266" y="319" class="key">supply-chain/</text><text x="463" y="319" class="value">Delivery workflows and verification</text>
+</svg>
