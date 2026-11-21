@@ -74,10 +74,20 @@ I designed a normalized PostgreSQL schema for café sales and inventory. I defin
 | Verify a release | Functional tests, role-based scenarios, reproducible defect reports, and regression checks |
 
 Beyond the project board
-- 🎓 I study Computer Science at Quezon City University, where my thesis work brings together software engineering and community nutrition monitoring.
-- 🎥 I volunteer on my church’s Media tech and Graphic Designer, working with OBS Studio, Canva Editor and EasySlides to support live services.
-- 🌱 I’m currently exploring AI-assisted decision support, technical product strategy, and development automation.
+- I study Computer Science at Quezon City University, where my thesis work brings together software engineering and community nutrition monitoring.
+- I volunteer on my church’s Media tech and Graphic Designer, working with OBS Studio, Canva Editor and EasySlides to support live services.
+- I’m currently exploring AI-assisted decision support, technical product strategy, and development automation.
 Let’s connect
 I enjoy talking with people who build software around real workflows, especially teams working on public-sector tools, small-business systems, or data-driven applications.
 
-Portfolio · LinkedIn · Email
+## Let's Connect
+
+I'm open to connecting with fellow developers, technical project managers, software engineers, and technology enthusiasts.
+
+- **LinkedIn:** [Julius Ceasar Mendoza](https://www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388)
+- **Portfolio:** [mndzjls.vercel.app](https://mndzjls.vercel.app/)
+- **Email:** [juliusmendoza809@gmail.com](mailto:juliusmendoza809@gmail.com)
+
+---
+
+*Building solutions, managing complexity, and turning ideas into functional systems.*
