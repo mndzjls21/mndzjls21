@@ -1,7 +1,5 @@
 ![Juls, Technical Project Manager and Software Developer. My work spans requirements engineering, systems design, and QA across NUTRI MAP, StockWise, and the Supply Chain Portal.](./profile-terminal.svg)
 
-# Hi, I’m Mr. Nuetrino (Juls)
-
 **Technical Project Manager & Software Developer**
 
 ![Three questions behind my projects: What happens when a field device loses signal? What should a seller restock first? Who verifies a delivery after the driver submits it?](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=2200&color=438ABD&vCenter=true&width=640&height=38&lines=%3E+What+happens+when+a+field+device+loses+signal%3F;%3E+What+should+a+seller+restock+first%3F;%3E+Who+verifies+a+delivery+after+the+driver+submits+it%3F)
@@ -75,10 +73,11 @@ I designed a normalized PostgreSQL schema for café sales and inventory. I defin
 | Design and build a system | Modular architecture, React, JavaScript, Tailwind CSS, API integration, and PostgreSQL |
 | Verify a release | Functional tests, role-based scenarios, reproducible defect reports, and regression checks |
 
-## Beyond the project board
+Beyond the project board
+- 🎓 I study Computer Science at Quezon City University, where my thesis work brings together software engineering and community nutrition monitoring.
+- 🎥 I volunteer on my church’s Media tech and Graphic Designer, working with OBS Studio, Canva Editor and EasySlides to support live services.
+- 🌱 I’m currently exploring AI-assisted decision support, technical product strategy, and development automation.
+Let’s connect
+I enjoy talking with people who build software around real workflows, especially teams working on public-sector tools, small-business systems, or data-driven applications.
 
-- **Cybersecurity** — I placed **4th out of 30** in my first Capture the Flag competition.
-- **Live production** — I volunteer on my church’s livestream team, operating OBS Studio and EasySlides during services.
-- **Currently exploring** — AI-assisted decision support, technical product strategy, and development automation. I’m especially interested in how to tell whether a recommendation actually helped someone make a better decision.
-
-If you work on public-sector software, small-business tools, or a process your team still manages by hand, I’d enjoy hearing how it works. [Get in touch](mailto:juliusmendoza809@gmail.com)
+Portfolio · LinkedIn · Email
