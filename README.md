@@ -74,7 +74,7 @@ I designed a normalized PostgreSQL schema for café sales and inventory. I defin
 | Verify a release | Functional tests, role-based scenarios, reproducible defect reports, and regression checks |
 
 Beyond the project board
-- I study Computer Science at Quezon City University, where my thesis work brings together software engineering and community nutrition monitoring.
+- I study Computer Science at Quezon City University, Bachelor of Science in Computer Science, currently a 4th-year student
 - I volunteer on my church’s Media tech and Graphic Designer, working with OBS Studio, Canva Editor and EasySlides to support live services.
 - I’m currently exploring AI-assisted decision support, technical product strategy, and development automation.
 Let’s connect
