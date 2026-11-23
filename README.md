@@ -87,7 +87,3 @@ I'm open to connecting with fellow developers, technical project managers, softw
 - **LinkedIn:** [Julius Ceasar Mendoza](https://www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388)
 - **Portfolio:** [mndzjls.vercel.app](https://mndzjls.vercel.app/)
 - **Email:** [juliusmendoza809@gmail.com](mailto:juliusmendoza809@gmail.com)
-
----
-
-*Building solutions, managing complexity, and turning ideas into functional systems.*
