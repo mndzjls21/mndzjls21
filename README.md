@@ -85,5 +85,4 @@ I enjoy talking with people who build software around real workflows, especially
 I'm open to connecting with fellow developers, technical project managers, software engineers, and technology enthusiasts.
 
 - **LinkedIn:** [Julius Ceasar Mendoza](https://www.linkedin.com/in/mendoza-julius-ceasar-v-2a7318388)
-- **Portfolio:** [mndzjls.vercel.app](https://mndzjls.vercel.app/)
 - **Email:** [juliusmendoza809@gmail.com](mailto:juliusmendoza809@gmail.com)
