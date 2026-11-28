@@ -1,5 +1,3 @@
-![Juls, Technical Project Manager and Software Developer. My work spans requirements engineering, systems design, and QA across NUTRI MAP, StockWise, and the Supply Chain Portal.](./profile-terminal.svg)
-
 **Technical Project Manager & Software Developer**
 
 ![Three questions behind my projects: What happens when a field device loses signal? What should a seller restock first? Who verifies a delivery after the driver submits it?](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2400&pause=2200&color=438ABD&vCenter=true&width=640&height=38&lines=%3E+What+happens+when+a+field+device+loses+signal%3F;%3E+What+should+a+seller+restock+first%3F;%3E+Who+verifies+a+delivery+after+the+driver+submits+it%3F)
